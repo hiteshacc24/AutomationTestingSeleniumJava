@@ -1,7 +1,7 @@
 # Automation Testing using Selenium, Java, Maven, TestNG
 The path from a Quality Tester to Quality Engineer
 
-For this series, I will be using Selenium with the Java programming language and the TestNG library, which will make our efforts easier and more organized. I will tackle, in the future, using Selenium with JavaScript, in order to help those not familiar with the old Java ecosystem. My IDE of choice is IntelliJ Idea.
+For this series, I will be using Selenium with the Java programming language and the TestNG library, which will make our efforts easier and more organized. My IDE of choice is IntelliJ Idea.
 
 ###Prerequisites:
 
